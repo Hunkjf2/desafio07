@@ -1,4 +1,4 @@
-# GoFinancesWEB
+# GoFinances
 
 ## ReactJS
 
