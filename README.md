@@ -2,6 +2,17 @@
 
 ## ReactJS
 
-### Essa será uma aplicação que deve armazenar transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
+### This will be an application that should store incoming and outgoing financial transactions and allow the registration and listing of these transactions, in addition to allowing the creation of new records in the database by sending a csv file.
 
 ![](src/assets/GoFinance.png)
+
+
+## INSTALL PACKPAGE
+
+### yarn 
+
+## RUN PROJECT
+
+### yarn start
+
+
